@@ -44,7 +44,7 @@ The file .project_x.txt is a hidden file that has been archived and should not b
 
 <br />
 <br />
-Confirm your selection:  <br/>
+Only the researcher2 user should be allowed to access the drafts directory and its contents.  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
