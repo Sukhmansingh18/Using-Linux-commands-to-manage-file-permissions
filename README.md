@@ -19,7 +19,7 @@ Using linux commands during this project to manage file permissions. While learn
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Checking file permissions in Projects directory <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
