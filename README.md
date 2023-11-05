@@ -40,7 +40,8 @@ The file project_m.txt is a restricted file and should not be readable or writab
 Changing permissions for hidden files <br/>
 The file .project_x.txt is a hidden file that has been archived and should not be written to by anyone.<br />
 
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="719" alt="Screenshot 2023-11-05 at 11 11 06 AM" src="https://github.com/Sukhmansingh18/Using-Linux-commands-to-manage-file-permissions/assets/139189335/70ff849d-d3ab-4705-b012-2f62d2d04436">
+
 <br />
 <br />
 Confirm your selection:  <br/>
