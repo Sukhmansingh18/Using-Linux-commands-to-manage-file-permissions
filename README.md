@@ -32,11 +32,14 @@ drwxrwxrwx
 <br />
 
 <br />
-The file project_m.txt is a restricted file and should not be readable or writable by the group or other; only the user should have these permissions on this file.  <br/>
+The file project_m.txt is a restricted file and should not be readable or writable by the group or other; only the user should have these permissions on this file. 
+<br/>
 <img width="717" alt="Screenshot 2023-11-05 at 10 39 25 AM" src="https://github.com/Sukhmansingh18/Using-Linux-commands-to-manage-file-permissions/assets/139189335/dd537555-69f8-4d27-a31d-433fc169845e">
 <br />
 <br />
-Enter the number of passes: <br/>
+Changing permissions for hidden files <br/>
+The file .project_x.txt is a hidden file that has been archived and should not be written to by anyone.<br />
+
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
