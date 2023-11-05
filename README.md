@@ -20,7 +20,7 @@ Using linux commands during this project to manage file permissions. While learn
 
 <p align="center">
 Checking file permissions in Projects directory <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="Screenshot 2023-11-05 at 10 22 36 AM" src="https://github.com/Sukhmansingh18/Using-Linux-commands-to-manage-file-permissions/assets/139189335/c1d8b203-89f2-4b74-a2b1-433613cf1352">
 <br />
 <br />
 Select the disk:  <br/>
